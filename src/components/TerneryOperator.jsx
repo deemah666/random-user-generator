@@ -1,6 +1,6 @@
 import React from 'react'
 
-const TerneryOperator = () => {
+const TerneryOperator = (cars) => {
   return (
     <div>
 const cars = props.car

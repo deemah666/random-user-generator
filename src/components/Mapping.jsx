@@ -4,7 +4,7 @@ const Mapping = () => {
     const Students = ['Abdul-Azeez', 'Olamide', 'Peter', 'Destiny']
   return (
     <div>
-      {Students.map((student) =>{
+      {Students.map((student, idx) =>{
         return(
             <div key={idx}>
                 <h1>{student}</h1>

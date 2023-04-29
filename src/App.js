@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 // import Counter from './components/Counter';
 // import ConditionalRendering from './components/ConditionalRendering';
@@ -14,7 +13,7 @@ import './App.css';
 import MoreApi from './components/MoreApi';
 
 function App() {
-  const cars = ['RollsRoyce', 'Masseratti', 'Ferarri', 'Bugatti']
+
   return (
     <div className="App">
       <MoreApi/>
