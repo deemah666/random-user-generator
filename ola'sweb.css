@@ -1,0 +1,14 @@
+body{
+   background-color: aqua;
+}
+
+.welcome{
+    text-transform: capitalize;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn{
+   color: forestgreen;
+}
+
